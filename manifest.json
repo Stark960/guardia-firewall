@@ -1,0 +1,16 @@
+
+{
+  "short_name": "Guardia",
+  "name": "Guardia 手机防火墙卫士",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1063/1063121.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1c1e",
+  "background_color": "#1a1c1e"
+}

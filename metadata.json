@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Guardia 手机防火墙",
+  "description": "高保真手机防火墙管理界面，用于监控通话和短信，管理黑白名单及设置内容过滤规则。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

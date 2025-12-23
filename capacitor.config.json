@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.guardia.firewall",
+  "appName": "Guardia卫士",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
